@@ -1,0 +1,16 @@
+/home/kameleon/Desktop/RazlikaExcept/RazlikaExcept/obj/Debug/net5.0/RazlikaExcept.csprojAssemblyReference.cache
+/home/kameleon/Desktop/RazlikaExcept/RazlikaExcept/obj/Debug/net5.0/RazlikaExcept.GeneratedMSBuildEditorConfig.editorconfig
+/home/kameleon/Desktop/RazlikaExcept/RazlikaExcept/obj/Debug/net5.0/RazlikaExcept.AssemblyInfoInputs.cache
+/home/kameleon/Desktop/RazlikaExcept/RazlikaExcept/obj/Debug/net5.0/RazlikaExcept.AssemblyInfo.cs
+/home/kameleon/Desktop/RazlikaExcept/RazlikaExcept/obj/Debug/net5.0/RazlikaExcept.csproj.CoreCompileInputs.cache
+/home/kameleon/Desktop/RazlikaExcept/RazlikaExcept/bin/Debug/net5.0/RazlikaExcept
+/home/kameleon/Desktop/RazlikaExcept/RazlikaExcept/bin/Debug/net5.0/RazlikaExcept.deps.json
+/home/kameleon/Desktop/RazlikaExcept/RazlikaExcept/bin/Debug/net5.0/RazlikaExcept.runtimeconfig.json
+/home/kameleon/Desktop/RazlikaExcept/RazlikaExcept/bin/Debug/net5.0/RazlikaExcept.runtimeconfig.dev.json
+/home/kameleon/Desktop/RazlikaExcept/RazlikaExcept/bin/Debug/net5.0/RazlikaExcept.dll
+/home/kameleon/Desktop/RazlikaExcept/RazlikaExcept/bin/Debug/net5.0/ref/RazlikaExcept.dll
+/home/kameleon/Desktop/RazlikaExcept/RazlikaExcept/bin/Debug/net5.0/RazlikaExcept.pdb
+/home/kameleon/Desktop/RazlikaExcept/RazlikaExcept/obj/Debug/net5.0/RazlikaExcept.dll
+/home/kameleon/Desktop/RazlikaExcept/RazlikaExcept/obj/Debug/net5.0/ref/RazlikaExcept.dll
+/home/kameleon/Desktop/RazlikaExcept/RazlikaExcept/obj/Debug/net5.0/RazlikaExcept.pdb
+/home/kameleon/Desktop/RazlikaExcept/RazlikaExcept/obj/Debug/net5.0/RazlikaExcept.genruntimeconfig.cache

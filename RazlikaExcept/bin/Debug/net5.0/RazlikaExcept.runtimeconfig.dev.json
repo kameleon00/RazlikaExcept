@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/kameleon/.dotnet/store/|arch|/|tfm|",
+      "/home/kameleon/.nuget/packages"
+    ]
+  }
+}
